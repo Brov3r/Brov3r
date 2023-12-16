@@ -14,7 +14,7 @@
 
   🗣️ Languages: Russian (native), English
   
-  📧 Contact: <a href="mailto:Deknil@gmail.com">
+  📧 Contact: <a href="mailto:codemacon@gmail.com">
                   <img alt='gmail' height=16 src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=35CAE1&color=383838'/>
               </a>
 </p>
