@@ -50,7 +50,6 @@
   🌐 Web development:</br></br>
     <img src="https://img.shields.io/badge/Electron-100000?style=for-the-badge&logo=electron&logoColor=white&labelColor=47848F&color=383838" />
     <img src="https://img.shields.io/badge/React JS-100000?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB&color=383838" />
-    <img src="https://img.shields.io/badge/Vue JS-100000?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=4FC08D&color=383838" />
     <img src="https://img.shields.io/badge/Node JS-100000?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933&color=383838" />
     <img src="https://img.shields.io/badge/Redux-100000?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC&color=383838" />
   </p>
@@ -62,7 +61,6 @@
   <p>
     🎮 Game development:</br></br>
     <img src="https://img.shields.io/badge/Unity3D-100000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000&color=383838" />
-    <img src="https://img.shields.io/badge/Unreal_Engine-100000?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=0E1128&color=383838" />
     <img src="https://img.shields.io/badge/LWJGL-100000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0E1128&color=383838" />
   </p>
   <p>
