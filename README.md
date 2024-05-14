@@ -4,7 +4,7 @@
 
 <div align="center" style="disply: flex;">
   <h1> 
-    Hello there, I'm Deknil 👋
+    Hello there, I'm Brov3r 👋
   </h1>
 </div>
 
@@ -74,7 +74,7 @@
   <h1> 
     📊Profile Statistics
   </h1>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Deknil&theme=dracula&hide_border=true" alt=""/> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deknil&layout=compact&theme=dracula&hide_border=true" alt=""/> </br>
-  <img src="https://komarev.com/ghpvc/?username=Deknil&style=flat-square&color=blue" alt=""/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Brov3r&theme=dracula&hide_border=true" alt=""/> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brov3r&layout=compact&theme=dracula&hide_border=true" alt=""/> </br>
+  <img src="https://komarev.com/ghpvc/?username=Brov3r&style=flat-square&color=blue" alt=""/>
 </div>
