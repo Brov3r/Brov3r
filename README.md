@@ -1,25 +1,20 @@
-<div align="center" style="disply: flex;">
-  <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" width="300"/>
-</div>
-
-<div align="center" style="disply: flex;">
+<div align="center" style="display: flex;">
   <h1> 
     Hello there, I'm Brov3r 👋
   </h1>
 </div>
 
 <p>
-  I am a beginner software developer with a keen interest in web and backend development, information security, neural networks, and game development and modding. 
-  My primary focus is on the Java programming language. I value clean, efficient code and am always eager for continuous learning and improvement.
+  I am a software developer with a strong interest in web and server development, information security, neural networks, game development and modding.
 
-  🗣️ Languages: Russian (native), English
+🗣️ Languages: Russian (native), English
   
   📧 Contact: <a href="mailto:codemacon@gmail.com">
                   <img alt='gmail' height=16 src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=35CAE1&color=383838'/>
               </a>
 </p>
 
-<div align="center" style="disply: flex;">
+<div align="center" style="display: flex;">
   <h1> 
     📜My skills
   </h1>
@@ -28,7 +23,7 @@
     ⚡Languages: </br></br>
     <img src="https://img.shields.io/badge/Markdown-100000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=000000&color=383838" />
     <img src="https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C&color=383838" />
-    <img src="https://img.shields.io/badge/C%23-100000?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120&color=383838" />
+    <img src="https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=rust&logoColor=white&labelColor=orange&color=383838" />
     <img src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=383838" />
     <img src="https://img.shields.io/badge/Lua-100000?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C2D72&color=383838" />
     <img src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=383838" />
@@ -39,19 +34,13 @@
   <p>
     🛠️ Development Tools:</br></br>
     <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=383838" />
-    <img src="https://img.shields.io/badge/Photoshop-100000?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=31A8FF&color=383838" />
-    <img src="https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E&color=383838" />
     <img src='https://img.shields.io/badge/gradle-100000?style=for-the-badge&logo=gradle&logoColor=white&labelColor=31A8FF&color=383838'/>
     <img src='https://img.shields.io/badge/webpack-100000?style=for-the-badge&logo=webpack&logoColor=white&labelColor=31A8FF&color=383838'/>
-    <img src="https://img.shields.io/badge/MS_Office-100000?style=for-the-badge&logo=microsoftoffice&logoColor=white&labelColor=D83B01&color=383838" />
-    <img src='https://img.shields.io/badge/intellij_idea-100000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=F7C935&color=383838'/>
   </p>
   <p>
   🌐 Web development:</br></br>
-    <img src="https://img.shields.io/badge/Electron-100000?style=for-the-badge&logo=electron&logoColor=white&labelColor=47848F&color=383838" />
     <img src="https://img.shields.io/badge/React JS-100000?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB&color=383838" />
     <img src="https://img.shields.io/badge/Node JS-100000?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933&color=383838" />
-    <img src="https://img.shields.io/badge/Redux-100000?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC&color=383838" />
   </p>
   <p>
     💾 Databases:</br></br>
@@ -60,7 +49,7 @@
   </p>
   <p>
     🎮 Game development:</br></br>
-    <img src="https://img.shields.io/badge/Unity3D-100000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000&color=383838" />
+    <img src="https://img.shields.io/badge/Godot-100000?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=478CBF&color=383838" />
     <img src="https://img.shields.io/badge/LWJGL-100000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0E1128&color=383838" />
   </p>
   <p>
@@ -69,7 +58,11 @@
     <img src="https://img.shields.io/badge/Windows-100000?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6&color=383838" />
   </p>
 </div>
-
+<div align="center">
+  <h1> 
+    🏆Profile Trophy
+  </h1>
+  <img src="https://github-profile-trophy.vercel.app/?username=brov3r" alt=""/>
 <div align="center">
   <h1> 
     📊Profile Statistics
