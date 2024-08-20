@@ -62,7 +62,7 @@
   <h1> 
     🏆Profile Trophy
   </h1>
-  <img src="https://github-profile-trophy.vercel.app/?username=brov3r" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=brov3r&theme=dracula" alt=""/>
 <div align="center">
   <h1> 
     📊Profile Statistics
