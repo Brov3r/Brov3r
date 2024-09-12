@@ -23,7 +23,6 @@
     ⚡Languages: </br></br>
     <img src="https://img.shields.io/badge/Markdown-100000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=000000&color=383838" />
     <img src="https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C&color=383838" />
-    <img src="https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=rust&logoColor=white&labelColor=orange&color=383838" />
     <img src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=383838" />
     <img src="https://img.shields.io/badge/Lua-100000?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C2D72&color=383838" />
     <img src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=383838" />
