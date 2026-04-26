@@ -7,7 +7,7 @@
   
   🗣️ Languages: Russian (native), English
   
-📧 Contact: <a href="mailto:codemacon@gmail.com" style="vertical-align: bottom; display: inline-block;">
+📧 Contact: <a href="mailto:mrbrov3r@gmail.com" style="vertical-align: bottom; display: inline-block;">
     <img alt="gmail" height="16" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
