@@ -1,4 +1,7 @@
-![Header](./media/header.svg)
+<div align="center">
+    <img alt="Header" width="100%" src="./media/header.svg" />
+</div>
+
 
 ### Hello there, I'm Brov3r 👋
 
@@ -11,8 +14,8 @@ I am a software developer with a strong interest in:
 **Pronouns:** he/him  
 **Languages:** Russian (native), English  
 
-📧 **Contact me:** <a href="mailto:mrbrov3r@gmail.com" style="vertical-align: bottom; display: inline-block;">`
-    `<img alt="gmail" height="16" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+📧 **Contact me:** <a href="mailto:mrbrov3r@gmail.com" style="vertical-align: bottom; display: inline-block;">
+    <img alt="gmail" height="16" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ### 🛠️ My Tech Stack
@@ -21,9 +24,6 @@ I am a software developer with a strong interest in:
 
 ### 📈 GitHub Stats
 <div align="left">
-  <!-- Общая статистика (опционально, но полезно) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Brov3r&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" width="400" />
-  
-  <!-- Стрик (серия дней) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Brov3r&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" width="400" /><br>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Brov3r&theme=radical&hide_border=true" alt="Streak Stats" width="400" />
 </div>
